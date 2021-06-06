@@ -1,0 +1,16 @@
+com\bjpowernode\licai\model\BidInfo.class
+com\bjpowernode\licai\service\LoanInfoService.class
+com\bjpowernode\licai\service\IncomeService.class
+com\bjpowernode\licai\model\LoanInfo.class
+com\bjpowernode\licai\model\IncomeRecord.class
+com\bjpowernode\licai\service\RechargeService.class
+com\bjpowernode\licai\model\mix\UserBidInfo.class
+com\bjpowernode\licai\model\mix\UserIncomeInfo.class
+com\bjpowernode\licai\service\UserService.class
+com\bjpowernode\licai\model\mix\UserRechargeInfo.class
+com\bjpowernode\licai\model\mix\LoanBidInfo.class
+com\bjpowernode\licai\service\FinanceAccountService.class
+com\bjpowernode\licai\service\BidInfoService.class
+com\bjpowernode\licai\model\FinanceAccount.class
+com\bjpowernode\licai\model\RechargeRecord.class
+com\bjpowernode\licai\model\User.class
